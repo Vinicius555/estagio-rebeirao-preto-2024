@@ -1,1 +1,1 @@
-# estagio-rebeirao-preto-2024
+# Repositório com respostas para vaga de estágio na Target Sistemas.
